@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 959c850c-30b3-42e9-998d-9faa36530955
+  name: Quantum Information Science II, Part 1
+  pageRef: /external-resources/quantum-information-science-ii-part-1_959c850c-30b3-42e9-998d-9faa36530955
+  weight: 10
+- identifier: d876e51e-c0ac-4616-82cb-cb2931b9f895
+  name: Quantum Information Science II, Part 2
+  pageRef: /external-resources/quantum-information-science-ii-part-2_d876e51e-c0ac-4616-82cb-cb2931b9f895
+  weight: 20
+- identifier: 53c8ea32-dadd-4751-8504-ab0fbb852417
+  name: Quantum Information Science II, Part 3
+  pageRef: /external-resources/quantum-information-science-ii-part-3_53c8ea32-dadd-4751-8504-ab0fbb852417
+  weight: 30
